@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\TestProject_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\TestProject_5.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\TestProject_5.AssemblyInfo.cs
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\TestProject_5.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\bin\Debug\net8.0\TestProject_5.exe
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\bin\Debug\net8.0\TestProject_5.deps.json
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\bin\Debug\net8.0\TestProject_5.runtimeconfig.json
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\bin\Debug\net8.0\TestProject_5.dll
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\bin\Debug\net8.0\TestProject_5.pdb
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\TestProject_5.dll
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\refint\TestProject_5.dll
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\TestProject_5.pdb
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\TestProject_5.genruntimeconfig.cache
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_5\obj\Debug\net8.0\ref\TestProject_5.dll
